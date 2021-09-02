@@ -1,0 +1,2 @@
+# Adware
+An adware virus
